@@ -14,6 +14,10 @@ Common
 <br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
+<div dispaly="flex">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangzzong92&show_icons=true&theme=radical)
+</div>
+
 #
 
 Contack
