@@ -19,6 +19,9 @@ Common
 
 <br/>
 
+## Git hub Stats
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangzzong92)](https://github.com/zzangzzong92/github-readme-stats)
+
 ## 💌Contact
 <br/>
 <a href="mailto:zzangzzong92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://velog.io/@zzangzzong" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> <a href="https://tattered-rule-04a.notion.site/Noah-Jang-b133f7149d914a0da030a2201f703c65" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
