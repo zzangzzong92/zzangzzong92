@@ -17,10 +17,3 @@ Front end
 
 <br/>
 
-<div align=center>
-
- 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zzangzzong92&theme=react)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zzangzzong92&theme=react)
-
-</div>
