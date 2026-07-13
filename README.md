@@ -1,11 +1,7 @@
 ![banner](./zzangbanner.jpeg)
 
-<h1 align="center">
-Noah Jang
-</h1>
-
 <p align="center">
-Frontend Engineer
+Product Engineer
 </p>
 
 <p align="center">
@@ -16,5 +12,5 @@ Next.js · React · TypeScript
 <br>
 
 <p align="center">
-Currently building WithKO · AI Automation · Game Community
+Currently building WithKO · AI Automation · Game Community · Web Sites
 </p>
