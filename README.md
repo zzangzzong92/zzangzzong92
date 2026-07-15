@@ -1,4 +1,6 @@
-<img scr="./zzangbanner.png" style="border-radius: 2px"/>
+<p align="center">
+  <img src="./zzangbanner.png" alt="zzangzzong92 profile banner" />
+</p>
 //![banner](./zzangbanner.png)
 
 <p align="center">
