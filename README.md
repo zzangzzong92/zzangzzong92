@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./zzangbanner.png" alt="zzangzzong92 profile banner" />
-</p>
-//![banner](./zzangbanner.png)
+![banner](./zzangbanner.png)
 
 <p align="center">
 Product Engineer
