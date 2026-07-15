@@ -1,4 +1,4 @@
-![banner](./zzangbanner.jpeg)
+![banner](./zzangbanner.png)
 
 <p align="center">
 Product Engineer
